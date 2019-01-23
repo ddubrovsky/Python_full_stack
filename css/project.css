@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #034732;
+}
+
+#two{
+  background-color: #008148;
+}
+
+#three{
+  background-color: #c6c013;
+}
+
+#four{
+  background-color: #ef8a17;
+}
+
+#five{
+  background-color: #ef2917;
+}
